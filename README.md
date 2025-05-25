@@ -8,7 +8,7 @@ This application is designed to streamline and automate employee data management
 
 ## Key Features
 
--### User-Friendly Interface
+### User-Friendly Interface
 - Built using **Java Swing**, the application offers a responsive and intuitive graphical user interface (GUI).
 - Users can navigate across different modules — like employee creation, updating, deletion, and reports — with ease.
 - Buttons, tables, text fields, and dropdowns are laid out for smooth interaction even for non-technical users.

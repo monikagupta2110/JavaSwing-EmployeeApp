@@ -71,9 +71,13 @@ Handles database transactions and errors efficiently to ensure data reliability 
 The entire project was developed in IntelliJ IDEA, a leading Java IDE known for its:
 
 Smart code completion
+
 Real-time error checking
+
 Integrated GUI form designer (for Swing)
+
 Built-in tools for version control and debugging
+
 Helped streamline the development process, making it easier to manage packages, modules, and forms.
 
 ## How to Run
